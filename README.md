@@ -1,2 +1,1 @@
-# loader-html-css
-### simple loader using html and css
+### Simple loader using HTML and CSS
