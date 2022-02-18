@@ -1,1 +1,1 @@
-### Simple loader using HTML and CSS
+# Simple loader using HTML and CSS
